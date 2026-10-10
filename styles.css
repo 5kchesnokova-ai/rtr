@@ -1,7 +1,15 @@
 li{color: rgb(2, 22, 81);
 font-weight:bold;
 }
-*{background-color:#9afff3 ;}
+body {
+  background-color: pink;
+}
+
+@media (min-width: 30em) {
+  body {
+    background-color: blue;
+  }
+}
 .outer {
   border: 5px solid black;
 }
