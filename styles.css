@@ -1,12 +1,12 @@
 li{color: rgb(2, 22, 81);
 font-weight:bold;
 }
-body {
+* {
   background-color: pink;
 }
 
 @media (min-width: 30em) {
-  body {
+  * {
     background-color: blue;
   }
 }
