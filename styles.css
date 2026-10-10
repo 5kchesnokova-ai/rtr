@@ -2,12 +2,12 @@ li{color: rgb(2, 22, 81);
 font-weight:bold;
 }
 * {
-  background-color: pink;
+  background-color: rgb(209, 192, 255);
 }
 
 @media (min-width: 30em) {
   * {
-    background-color: blue;
+    background-color: rgb(250, 166, 166);
   }
 }
 .outer {
