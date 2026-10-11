@@ -1,6 +1,6 @@
 "use strict";
 alert("Скажи сыыыыр");
-let name="Путник" ;
+let userName="Путник" ;
 let age=2009;
-alert( "name" );
-alert( 'age')
+alert(userName);
+alert(age);
